@@ -59,14 +59,14 @@ TE_Soup = BeautifulSoup(TE_HTML.content, 'html.parser')
 
 
 def GetRB():
-    return null
+    return 0
 def getWR():
-    return null
+    return 0
 def getDefense():
-    return null
+    return 0
 def getKicker():
-    return null
+    return 0
 def getTE():
-    return null
+    return 0
 def getQB():
-    return null
+    return 0
