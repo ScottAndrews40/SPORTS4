@@ -9,7 +9,7 @@ FanSoup = BeautifulSoup(overAllPlayerList.content, 'html.parser')
 
 players = FanSoup.find(id='rank-data')
 #pprint(players)
-playerRanks = players.find_all('td', class_="sticky-cell sticky-cell-one")
+#playerRanks = players.find_all('td', class_="sticky-cell sticky-cell-one")
 playerNames = players.find_all('span', class_="full-name")
 
 #PlayerData doesn't work
