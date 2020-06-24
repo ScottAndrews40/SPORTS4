@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SPORTS.iml" filepath="$PROJECT_DIR$/.idea/SPORTS.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../WebScrapeTutorial1.0/.idea/WebScrapeTutorial1.0.iml" filepath="$PROJECT_DIR$/../WebScrapeTutorial1.0/.idea/WebScrapeTutorial1.0.iml" />
     </modules>
   </component>
 </project>
